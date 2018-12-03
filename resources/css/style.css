@@ -1,0 +1,16 @@
+
+.main-text{
+    margin: 0;
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-40%, -50%);
+    
+}
+.rotate {
+    width:1px;
+    word-wrap: break-word;
+    font-family: monospace; /* this is just for good looks */
+    
+    }
